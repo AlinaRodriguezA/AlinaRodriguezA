@@ -1,4 +1,4 @@
-### Hi there 👋
+![¡HELLO WORLD!](https://user-images.githubusercontent.com/103446185/197078239-dfc0c671-d4e6-4630-8a2f-c69be19b60f8.png)
 
 <!--
 **AlinaRodriguezA/AlinaRodriguezA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
